@@ -50,5 +50,6 @@ Pull Requests are welcome. Please follow these rules for the ease of understandi
 <br>
 
 [👨 Sayan Nath](https://sayan-nath.web.app/) [📷 Insta](https://www.instagram.com/sayannath235/) [🐤 Twitter](https://twitter.com/SayanNa20204009) [🧳 LinkedIn](https://www.linkedin.com/in/sayan-nath-15a989182/)
+[Mrinmoy Kalita]
 <br>
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/sayannath)
